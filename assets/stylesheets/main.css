@@ -345,6 +345,9 @@ p a {
 .teaser a:hover h3 {
   color: #a9b2b9;
 }
+.teaser a:hover h5 {
+  color: #a9b2b9;
+}
 .teaser a {
 	margin-bottom: 22px;
 }
